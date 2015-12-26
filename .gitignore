@@ -1,0 +1,22 @@
+# Generics
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
+*~
+*.sass-cache
+*.ruby-version
+.DS_Store
+._*
+Thumbs.db
+
+# Node.js modules
+*node_modules/
+
+# Build artefacts
+*build/
