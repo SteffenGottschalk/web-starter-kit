@@ -1,0 +1,28 @@
+{
+  "name": "web-starter-kit",
+  "version": "0.0.0",
+  "description": "Starter Kit - is an opinionated boilerplate for web development built on top of Node.js, Express and Gulp.",
+  "main": "Gulpfile.js",
+  "author": "Steffen Gottschalk",
+  "private": true,
+  "dependencies": {
+    "colors": "*",
+    "connect-livereload": "*",
+    "express": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-concat": "*",
+    "gulp-file-include": "*",
+    "gulp-htmlmin": "*",
+    "gulp-jshint": "*",
+    "gulp-plumber": "*",
+    "gulp-preprocess": "*",
+    "gulp-rimraf": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "gulp-watch": "*",
+    "jshint": "*",
+    "tiny-lr": "*"
+  },
+  "devDependencies": {}
+}
